@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Univer\5sem\SP\os14\OS_0403\main.cpp(60,97): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Univer\5sem\SP\os14\OS_0403\main.cpp(22,14): warning C4101: path: неиспользованная локальная переменная
+  OS_0403.vcxproj -> D:\Univer\5sem\SP\os14\x64\Debug\OS_0403.exe

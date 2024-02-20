@@ -1,0 +1,5 @@
+﻿  OS_0402.cpp
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS_0402\OS_0402.cpp(44,107): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OS_0402.vcxproj -> D:\Univer\5sem\SP\SP_lab5\SP_Lab5\x64\Debug\OS_0402.exe

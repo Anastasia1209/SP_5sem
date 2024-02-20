@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (SP02_COM_LIB.vcxproj, SP_02_COM_LIB.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  OS12_COM_LIB.vcxproj -> D:\Univer\5sem\SP\lab02 (2)\x64\Debug\OS12_COM_LIB.lib

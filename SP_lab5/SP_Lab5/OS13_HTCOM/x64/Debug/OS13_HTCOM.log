@@ -1,0 +1,17 @@
+﻿  ClassFactory.cpp
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ComHT.cpp
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  dllmain.cpp
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\dllmain.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\dllmain.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  pch.cpp
+  Registry.cpp
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Registry.cpp(143,27): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Создание кода...
+     Создается библиотека D:\Univer\5sem\SP\SP_lab5\SP_Lab5\x64\Debug\OS13_HTCOM.lib и объект D:\Univer\5sem\SP\SP_lab5\SP_Lab5\x64\Debug\OS13_HTCOM.exp
+  OS13_HTCOM.vcxproj -> D:\Univer\5sem\SP\SP_lab5\SP_Lab5\x64\Debug\OS13_HTCOM.dll

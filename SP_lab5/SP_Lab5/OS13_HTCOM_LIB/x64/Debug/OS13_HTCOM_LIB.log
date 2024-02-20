@@ -1,0 +1,18 @@
+﻿  OS13_HTCOM_LIB.cpp
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  pch.cpp
+  Создание кода...
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(70): warning C4715: OS13_HTCOM::HT::open: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(49): warning C4715: OS13_HTCOM::HT::create: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(91): warning C4715: OS13_HTCOM::HT::snap: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(111): warning C4715: OS13_HTCOM::HT::close: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(151): warning C4715: OS13_HTCOM::HT::remove: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(131): warning C4715: OS13_HTCOM::HT::insert: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(171): warning C4715: OS13_HTCOM::HT::get: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(191): warning C4715: OS13_HTCOM::HT::update: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(211): warning C4715: OS13_HTCOM::HT::getLastError: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(249): warning C4715: OS13_HTCOM::Element::createGetElement: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(269): warning C4715: OS13_HTCOM::Element::createInsertElement: значение возвращается не при всех путях выполнения
+D:\Univer\5sem\SP\SP_lab5\SP_Lab5\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(289): warning C4715: OS13_HTCOM::Element::createUpdateElement: значение возвращается не при всех путях выполнения
+  OS13_HTCOM_LIB.vcxproj -> D:\Univer\5sem\SP\SP_lab5\SP_Lab5\x64\Debug\OS13_HTCOM_LIB.lib
